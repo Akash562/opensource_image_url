@@ -91,7 +91,7 @@ $num_files = count($files1) - 2;
     if ($file=='.' || $file=='..' ) { }
      else {
 
-     echo "<a href=http://shreetalkies.com/ShreeApi/images/".$file." target='_blank'>http://shreetalkies.com/ShreeApi/images/".$file."</a><br>";
+     echo "<a href=http://my images url/images/".$file." target='_blank'>http://my image url/images/".$file."</a><br>";
      }?></td>
     <!-- other tds here -->
 </tr>
